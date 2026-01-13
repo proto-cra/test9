@@ -1,0 +1,82 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs.html",
+    "destination": "/test9/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy-business-structures.html",
+    "destination": "/test9/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy-business-structures.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html",
+    "destination": "/test9/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/bankruptcy.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/proposal-bankruptcy.html",
+    "destination": "/test9/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/proposal-bankruptcy.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/receivership.html",
+    "destination": "/test9/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/receivership.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/regional-intake-centres-insolvency-rici.html",
+    "destination": "/test9/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/receivership-bankruptcy/regional-intake-centres-insolvency-rici.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html",
+    "destination": "/test9/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/change-owner-partners-directors.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/rendering-services-canada/non-resident-employer-certification.html",
+    "destination": "/test9/en/revenue-agency/services/tax/international-non-residents/information-been-moved/rendering-services-canada/non-resident-employer-certification.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/rendering-services-canada/where-send-completed-waiver-non-resident-employer-certification-applications.html",
+    "destination": "/test9/en/revenue-agency/services/tax/international-non-residents/information-been-moved/rendering-services-canada/where-send-completed-waiver-non-resident-employer-certification-applications.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/benefits/calendar.html",
+    "destination": "/test9/en/services/benefits/calendar.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc342.html",
+    "destination": "/test9/en/revenue-agency/services/forms-publications/forms/rc342.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc473.html",
+    "destination": "/test9/en/revenue-agency/services/forms-publications/forms/rc473.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-088.html",
+    "destination": "/test9/en/revenue-agency/services/forms-publications/publications/b-088.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-088/export-distribution-centre-program.html",
+    "destination": "/test9/en/revenue-agency/services/forms-publications/publications/b-088/export-distribution-centre-program.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/cra-login.html",
+    "destination": "/test9/en/revenue-agency/services/e-services/cra-login-services/cra-login.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services.html",
+    "destination": "/test9/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/sign-in-partners.html",
+    "destination": "/test9/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/sign-in-partners.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/verify-identity.html",
+    "destination": "/test9/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/verify-identity.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html",
+    "destination": "/test9/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/benefits/covid-validation.html",
+    "destination": "/test9/en/revenue-agency/services/benefits/covid-validation.html"
+  }
+]
